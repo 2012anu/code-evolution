@@ -1,0 +1,13 @@
+.button{
+    position: fixed;
+    border: solid coral 2px;
+    width: 120px;
+    color: palevioletred;
+    background-color: black;
+    border-radius: 15%;
+
+}
+.form{
+  position: absolute;
+  right:50%
+}

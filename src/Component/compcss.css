@@ -1,0 +1,20 @@
+.nonJsx{
+    color: brown;
+}
+.Click {
+    position:  absolute;
+    border: solid black 2px;
+    margin: 8px;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: aqua;
+    right: 40%;
+}
+.form{
+    position: absolute;
+    right: 50%;
+}
+
+input{
+    align-items: center;
+}
